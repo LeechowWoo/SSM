@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/health-parent/health-backend/src/main/webapp/element_ui_demo/01-container.html" value="file://$PROJECT_DIR$/health-parent/health-backend/src/main/webapp/element_ui_demo" />
+        <entry key="file://$PROJECT_DIR$/health-parent/health-backend/src/main/webapp/element_ui_demo/02-dropdown.html" value="file://$PROJECT_DIR$/health-parent/health-backend/src/main/webapp/element_ui_demo" />
+        <entry key="file://$PROJECT_DIR$/health-parent/health-backend/src/main/webapp/pages/checkgroup.html" value="file://$PROJECT_DIR$/health-parent/health-backend/src/main/webapp/pages" />
+        <entry key="file://$PROJECT_DIR$/health-parent/health-backend/src/main/webapp/pages/checkitem.html" value="file://$PROJECT_DIR$/health-parent/health-backend/src/main/webapp/pages" />
+        <entry key="file://$PROJECT_DIR$/health-parent/health-backend/src/main/webapp/pages/setmeal.html" value="file://$PROJECT_DIR$/health-parent/health-backend/src/main/webapp/pages" />
+      </map>
+    </option>
+  </component>
+</project>

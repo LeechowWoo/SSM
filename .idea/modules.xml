@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/health-parent/health-backend/health-backend.iml" filepath="$PROJECT_DIR$/health-parent/health-backend/health-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/health-parent/health-common/health-common.iml" filepath="$PROJECT_DIR$/health-parent/health-common/health-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/health-parent/health-interface/health-interface.iml" filepath="$PROJECT_DIR$/health-parent/health-interface/health-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/health-parent/health-jobs/health-jobs.iml" filepath="$PROJECT_DIR$/health-parent/health-jobs/health-jobs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/health-parent/health-mobile/health-mobile.iml" filepath="$PROJECT_DIR$/health-parent/health-mobile/health-mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/health-parent/health-parent.iml" filepath="$PROJECT_DIR$/health-parent/health-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/health-parent/health-service-provider/health-service-provider.iml" filepath="$PROJECT_DIR$/health-parent/health-service-provider/health-service-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quartzdemo/quartzdemo.iml" filepath="$PROJECT_DIR$/quartzdemo/quartzdemo.iml" />
+    </modules>
+  </component>
+</project>
